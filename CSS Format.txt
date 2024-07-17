@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>UI CSS Pages</title>
+        <style>
+           
+        </style>
+    </head>
+
+    <body>
+
+    </body>
+</html>
